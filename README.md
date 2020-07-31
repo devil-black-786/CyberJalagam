@@ -1,4 +1,4 @@
-<h2>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm <[Jaishnav!](https://rbinternationalnet.wix.com/rbintnet)></h2>
+<h2>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jaishnav!</h2>
 
 [![Jaishnav's github stats](https://github-readme-stats.vercel.app/api?username=CyberJalagam)](https://github.com/CyberJalagam)
 
