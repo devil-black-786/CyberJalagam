@@ -1,6 +1,5 @@
 ### Hey 👋🏽, I'm [Jaishnav!](https://rbinternationalnet.wix.com/rbintnet) 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iVuViWKkkyElq/giphy.gif" />
 
 <br/>
 
