@@ -26,10 +26,12 @@
 <br />
 
 
+![Jaishnav's github stats](https://github-readme-stats.vercel.app/api?username=CyberJalagam&show_icons=true&hide_border=true)
+
+
 Hi, I'm JAISHNAVPRASAD, a Noobie Android ROM Developer 🚀 from India.
 I Am the CEO & Founder Of RB INTERNATIONAL NETWORK.
 A Daydreamer, Ambitious Guy
 
-![Jaishnav's github stats](https://github-readme-stats.vercel.app/api?username=CyberJalagam&show_icons=true&hide_border=true)
 
 
