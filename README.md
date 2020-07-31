@@ -1,3 +1,5 @@
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iVuViWKkkyElq/giphy.gif" />
 ### Hey 👋🏽, I'm [Jaishnav!](https://rbinternationalnet.wix.com/rbintnet) 
 
 <br/>
@@ -24,10 +26,6 @@
 <br />
 
 Hi, I'm JAISHNAVPRASAD, a Noobie Android ROM Developer 🚀 from India
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iVuViWKkkyElq/giphy.gif" />
-
-
 
 ![Jaishnav's github stats](https://github-readme-stats.vercel.app/api?username=CyberJalagam&show_icons=true&hide_border=true)
 
