@@ -18,10 +18,10 @@
 <a href="https://www.instagram.com/_cyberjalagam_/">
   <img align="left" alt="Jaishnav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/MrMobTech_/">
+<a href="https://www.youtube.com/MrMobTech/">
   <img align="left" alt="Jaishnav's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>  
-  <a href="https://forum.xda-developers.com/member.php?u=10857311_/">
+  <a href="https://forum.xda-developers.com/member.php?u=10857311/">
   <img align="left" alt="Jaishnav's XDA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xdadevelopers.svg" />
 </a>
 
