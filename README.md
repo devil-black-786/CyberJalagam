@@ -4,6 +4,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CyberJalagam&&show_icons=true&&theme=tokyonight" />
 <img src="https://raw.githubusercontent.com/ProjectSakura/ProjectSakura.github.io/master/loading.gif" width="150px" height="150px" align="centre">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cyberjalagam&style=flat-square" alt="cyberjalagam" /> </p>
+
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DCyberJalagam&longCache=true)](https://github.com/CyberJalagam)
 
 <br/>
